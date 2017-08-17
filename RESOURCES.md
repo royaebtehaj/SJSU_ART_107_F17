@@ -16,14 +16,18 @@ Class Website: https://github.com/ablanton/SJSU_ART_107_F17
 | [Resources](https://github.com/ablanton/SJSU_ART_107_F17/blob/master/RESOURCES.md)
 | [Class Website](https://github.com/ablanton/SJSU_ART_107_F17)
 
-###### Project One
-------------------
+Resources
+---------
 
-###### Project Two
-------------------
+### Aggregators
 
-###### Project Three
---------------------
+### Artist
 
-###### Final
-------------
+### Artworks
+
+### Institutions
+
+### Writings 
+
+### Links
+

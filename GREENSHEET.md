@@ -1,38 +1,44 @@
-**SJSU X3D Spring 2017**
+**SJSU ART 107 Fall 2017**
 ======================
 Department of Art and Art History
-Art 102, 3D Modeling and Printing, Spring 2017
+Art 107, Fall 2017
 
 ![gif](http://i.imgur.com/TuOehiT.gif)
 
 Instructor: Andrew Blanton
 Office: Art 311
-Email: Andrew.blanton@sjsu.edu
+Email: andrew.blanton@sjsu.edu
 Office Hours: T and TR 11-12
 Class Day/Time: T TR 12:00-2:50
-Class Website: https://github.com/ablanton/SJSU_X3D_17
+Class Website: https://github.com/ablanton/SJSU_ART_107_F17
 
-[GreenSheet](https://github.com/ablanton/SJSU_X3D_17/blob/master/GREENSHEET.md) 
-| [Resources](https://github.com/ablanton/SJSU_X3D_17/blob/master/RESOURCES.md) 
-| [Class Website](https://github.com/ablanton/SJSU_X3D_17)
+[GreenSheet](https://github.com/ablanton/SJSU_ART_107_F17/blob/master/GREENSHEET.md)
+| [Resources](https://github.com/ablanton/SJSU_ART_107_F17/blob/master/RESOURCES.md)
+| [Class Website](https://github.com/ablanton/SJSU_ART_107_F17)
 
 Course Description
 ------------------
-Introduce experimental 3D methods with a focus on conceptual and creative processes using Maya software and 3D printing technology while addressing contemporary uses for artistic production.
+This semester's Art 107, Advanced Projects in Digital Media Art, will be an exploration in working of Internet technologies. The principal goal of this class will be to learn and build a competency with JavaScript as a medium for art. The class will explore a number of technologies including client side and server side libraries for the creation of internet based art. This class will introduce experimental JavaScript with a focus on conceptual and creative processes using open source technology while addressing contemporary uses in artistic production. Students are required to have completed Art 75 as a prerequisite for this class.
 
 Learning Outcomes
 -----------------
 
 ###### LO1: Produce work in line with contemporary art practices.
 ###### LO2: Present created work in a professional manner.
-###### LO3: Discuss ideas and concepts related to contemporary 3D digital art.
-###### LO4: Complete original projects exploring the visual and conceptual language of experimental 3D.
-###### LO5: Demonstrate knowledge of the works of some of the most important 3D animation/print artists/ projects.
-###### LO6: Think critically about 3D methods from a digital media art context including 3D rendering, 3D printing, and time-based 3D methods.
-###### LO7: Demonstrate technical skills to use Maya and other open source software.
+###### LO3: Generate meaningful human-computer interactions.
+###### LO4: Complete original projects exploring the visual and conceptual language of code.
+###### LO5: Demonstrate knowledge of the works of some of the most important internet artist and projects.
+###### LO6: Think critically about the Internet as a technology.
+###### LO7: Present completed artworks in individual and group exhibitions. 
 
 Textbook
 --------
+
+All the reading material will be available on the class website in pdf format. Students will not need to purchase any books for this class.
+
+Other equipment / material requirements (optional)
+
+Personal Domain: Students are encouraged to buy their own domain and server space.
 
 Course Requirements and Assignments
 -----------------------------------
@@ -71,9 +77,9 @@ Schedule
 
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Week 1* 01/26      | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
-| *Week 2* 01/31      | **Due: Reading 1** *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
-| 02/02               | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
+| *Week 1* 08/24      | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
+| *Week 2* 08/29      | **Due: Reading 1** *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
+| 08/31               | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
 | *Week 3* 02/07      | **Due: Assignment One: Intro to Maya Basics + Modeling Assignment** *** Introduction to Lighting, Introduction to rendering *** Class exercise/Maya Problem Solving |
 | 02/09               | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
 | *Week 4* 02/14      | Introduction to texture + 2D vs. 3D *** Workshop Day |
