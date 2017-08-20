@@ -77,24 +77,24 @@ Schedule
 
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Week 1* 08/24      |  |
-| *Week 2* 08/29      |  |
-| 08/31               |  |
-| *Week 3* 09/05      |  |
-| 09/07               |  |
-| *Week 4* 09/12      |  |
-| 09/14               |  |
-| *Week 5* 09/19      |  |
-| 00/21               |  |
-| *Week 6* 09/26      |  |
-| 09/28               |  |
-| *Week 7* 10/03      |  |
-| 10/05               |  |
-| *Week 8* 010/10     |  |
-| 10/12               |  |
-| *Week 9* 10/17      |  |
-| 10/19               |  |
-| *Week 10* 10/24     |  |
+| *Week 1* 08/24      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) ** Online Research ** Git Registration |
+| *Week 2* 08/29      | **Due: Discuss reading 1--> Post 400-600 Word Reading Response On Class Git** EQJS: 1 + 2 ** JS Lesson 1 |
+| 08/31               | JS Lesson 1 Extended ** Screen related works ** Assign: Assignment One ** Assign: Project One |
+| *Week 3* 09/05      | **Due: JS Assignment One** ** EQJS: 3 + 4 ** JS Lesson 2 ** Class exercise/JS Problem Solving |
+| 09/07               | Screen related works ** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) ** Assign: Reading Two |
+| *Week 4* 09/12      | **Due: Reading Two** ** EQJS: 5 ** JS Lesson 3 |
+| 09/14               | Workshop Day (working on your first project) |
+| *Week 5* 09/19      | **First Project DUE** **Presentation Day  ---> Student Presentation of First Project** |
+| 00/21               | **Presentation Day  ---> Student Presentation of First Project** |
+| *Week 6* 09/26      | EQJS: 6 + 7 ** JS Lesson 4 ** Class Exercise ** Assign: Reading Three |
+| 09/28               | **Due: Reading Three** Screen: Related Videos ** Assign: Project Two|
+| *Week 7* 10/03      | EQJS: 8 + 9 ** JS Lesson 5 ** In Class Ideation + Concepts for Project Two |
+| 10/05               | **Due: Ideation for Project Two** JS Problem Solving/Workshop Day |
+| *Week 8* 010/10     | EQJS: 10 + 11 ** JS Lesson 6 ** Assign: Reading Four |
+| 10/12               | **Due: Reading Four** ** Screen: Related Work |
+| *Week 9* 10/17      | EQJS: 12 + 13 ** JS Lesson 7 ** Work in class on Project Two |
+| 10/19               | **Second Project DUE** **Presentation Day ---> Student Presentation of Second Project** |
+| *Week 10* 10/24     | **Presentation Day ---> Student Presentation of Second Project** |
 | 10/26               | EQJS: 14 + 15 ** JS Lesson 8 ** Screen: Related Work ** Assign: Third Project |
 | *Week 11* 10/31     | EQJS: 16 + 17 ** JS Lesson 9 |
 | 11/02               | Show and Tell: Different JS Components  (Student Presentations) ** Assign: Reading Five |
