@@ -77,38 +77,36 @@ Schedule
 
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Week 1* 08/24      | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
-| *Week 2* 08/29      | **Due: Reading 1** *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
-| 08/31               | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
-| *Week 3* 02/07      | **Due: Assignment One: Intro to Maya Basics + Modeling Assignment** *** Introduction to Lighting, Introduction to rendering *** Class exercise/Maya Problem Solving |
-| 02/09               | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
-| *Week 4* 02/14      | Introduction to texture + 2D vs. 3D *** Workshop Day |
-| 02/16               | Workshop Day (working on your first project) |
-| *Week 5* 02/21      | **Due: First Project** *** Student Presentation of First Project |
-| 02/23               | Student Presentation of First Project |
-| *Week 6* 02/28      | Introduction to Keyframe Animation *** Timeline; Graph Editor; Playblast; Batch Rendering *** Skill: Variable *** Class Exercise |
-| 03/02               | **Work In Class on Concepts for the second project** *** Screen: Related Videos *** |
-| *Week 7* 03/07      | Maya Problem Solving/Workshop Day |
-| 03/09               | **Due: Reading 2** |
-| *Week 8* 03/14      | **Reading 2 Discussion** Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers *** Additive processes and subtractive processes. |
-| 03/16               | Screen: Related Videos *** Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers |
-| *Week 9* 03/21      | Workshop Day + Printing |
-| 03/23               | **Due: Second Project** *** Presentation Day ---> Student Presentation of Second Project |
-| *Week 10* 03/28     | Spring Break |
-| 03/30               | Spring Break |
-| *Week 11* 04/04     | 3D printing and advanced manufacturing techniques *** intro to other sculpting tools *** <Skill: Variable> ***  students work on concepts for third project |
-| 04/06               | *** Show and Tell: Different Maya Components  (Student Presentations) |
-| **04/07**           | **Paseo Day One** |
-| **04/08**           | **Paseo Day Two** Events start at 10:00am Andrew Talks at 3pm and Performs at 4:30pm |
-| *Week 12* 04/11     | **Due: Reading 3** In class work on Third Project + prototyping exercise |
-| 04/13               | Screen Inspiration Videos + discussion *** Work in class on projects |
-| *Week 13* 04/18     |  **Third Project Due** |
-| 04/20               | Introduction to Unity - navigation - interface layout - pipeline from maya to Unity |
-| *Week 14* 04/25     | **Guest Speaker: Patrick Lichty** Begin prototyping in Unity, workflow from maya to Unity, build basic scene |
-| 04/27               | **Due: Reading 4** Introduction of Final *** Unity Asset Store - rigging and camera *** In Class Exercise for Conceptual Development |
-| *Week 15* 05/02     | **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) Work in class on final |
-| 05/4                | Work Week For Final Project |
-| *Week 16* 05/09     | Work Week For Final Project |
-| 05/11               | Work Week For Final Project |
-| *Final*  05/16      | **Final Project Due** *** Presentation Day ---> Student Presentation of Final Project |
+| *Week 1* 08/24      |  |
+| *Week 2* 08/29      |  |
+| 08/31               |  |
+| *Week 3* 09/05      |  |
+| 09/07               |  |
+| *Week 4* 09/12      |  |
+| 09/14               |  |
+| *Week 5* 09/19      |  |
+| 00/21               |  |
+| *Week 6* 09/26      |  |
+| 09/28               |  |
+| *Week 7* 10/03      |  |
+| 10/05               |  |
+| *Week 8* 010/10     |  |
+| 10/12               |  |
+| *Week 9* 10/17      |  |
+| 10/19               |  |
+| *Week 10* 10/24     |  |
+| 10/26               | EQJS: 14 + 15 ** JS Lesson 8 ** Screen: Related Work ** Assign: Third Project |
+| *Week 11* 10/31     | EQJS: 16 + 17 ** JS Lesson 9 |
+| 11/02               | Show and Tell: Different JS Components  (Student Presentations) ** Assign: Reading Five |
+| *Week 12* 11/07     | **Due: Reading Five** ** EQJS: 18 + 19 ** JS Lesson 10 |
+| 11/09               | Screen Inspiration Videos + discussion ** Work in class on projects |
+| *Week 13* 11/14     | EQJS: 20 + 21 ** JS Lesson 11 ** Workshop day for third Project ** Assign: Introduction of Final|
+| 11/16               | Workshop day or Optional ATC in MLK |
+| *Week 14* 11/21     | **Third Project Due** |
+| 11/23               | Thanksgiving – no class
+| *Week 15* 11/28     | **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) Work in class on final |
+| 11/30               | Final Workshop |
+| *Week 16* 12/05     | **Presentation Day** ---> Student Presentation of Final Project |
+| 12/07               | **Presentation Day** ---> Student Presentation of Final Project |
+| *Final*  12/17      | **Final Project Due** *** The final project + paper is due no later then Sunday December 17th |
 |                  |  |
