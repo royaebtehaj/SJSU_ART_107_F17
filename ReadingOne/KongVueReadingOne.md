@@ -1,5 +1,6 @@
-# Artwork: *World of Awe: The traveler’s Journal(Chapter 1: Forever)*
-# Artist: Yael Kanarek
+# READING ONE RESPONSE
+## Artwork: *World of Awe: The traveler’s Journal(Chapter 1: Forever)*
+## Artist: Yael Kanarek
 
 ![](https://media.giphy.com/media/aZg5FJVAHdB3G/giphy.gif)
 
