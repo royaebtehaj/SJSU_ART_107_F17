@@ -31,3 +31,16 @@ Resources
 
 ### Links
 
+8/24
+
+https://anthology.rhizome.org/
+https://threejs.org/
+https://aframe.io/examples/showcase/helloworld/
+http://theharrisonstudio.net/a-vision-for-the-green-heart-of-holland
+http://www.phillipstearns.com/
+https://en.wikipedia.org/wiki/Jim_Drain
+https://www.assetstore.unity3d.com/en/#!/content/92515
+http://www.ekac.org/gfpbunny.html
+https://desktop.github.com/
+https://www.engadget.com/2013/01/01/twitter-roach-takes-guidance-from-tweets/
+
