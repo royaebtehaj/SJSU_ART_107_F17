@@ -20,6 +20,6 @@ Other questions: What happens when there are no more materials for the component
 ### *References*
 1 D'Arnault, Clayton . "What is Digital Culture? – Digital Culturist." Digital Culturist. October 20, 2015. Accessed August 27, 2017. https://digitalculturist.com/what-is-digital-culture-5cbe91bfad1b.
 
-2 
+2 "NET ART ANTHOLOGY: World of Awe: The Traveler." NET ART ANTHOLOGY: World of Awe: The Traveler's Journal (Chapter 1: Forever). June 15, 2017. Accessed August 27, 2017. https://anthology.rhizome.org/world-of-awe.
 
 
