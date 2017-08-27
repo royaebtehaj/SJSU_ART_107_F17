@@ -78,7 +78,7 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 08/24      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) ** Online Research ** Git Registration |
-| *Week 2* 08/29      | **Due: Discuss reading 1--> Post 400-600 Word Reading Response On Class Git** EQJS: 1 + 2 ** JS Lesson 1 |
+| *Week 2* 08/29      | **Due: Discuss reading 1--> Post 400-600 Word Reading Response On Class Git** ** Choose 1-3 sites to discuss from [https://anthology.rhizome.org/](https://anthology.rhizome.org/) for Reading 1 ** EQJS: 1 + 2 ** JS Lesson 1 |
 | 08/31               | JS Lesson 1 Extended ** Screen related works ** Assign: Assignment One ** Assign: Project One |
 | *Week 3* 09/05      | **Due: JS Assignment One** ** EQJS: 3 + 4 ** JS Lesson 2 ** Class exercise/JS Problem Solving |
 | 09/07               | Screen related works ** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) ** Assign: Reading Two |
