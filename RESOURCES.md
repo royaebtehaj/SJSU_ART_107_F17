@@ -32,15 +32,17 @@ Resources
 ### Links
 
 8/24
-
-https://anthology.rhizome.org/
-https://threejs.org/
-https://aframe.io/examples/showcase/helloworld/
-http://theharrisonstudio.net/a-vision-for-the-green-heart-of-holland
-http://www.phillipstearns.com/
-https://en.wikipedia.org/wiki/Jim_Drain
-https://www.assetstore.unity3d.com/en/#!/content/92515
-http://www.ekac.org/gfpbunny.html
-https://desktop.github.com/
-https://www.engadget.com/2013/01/01/twitter-roach-takes-guidance-from-tweets/
+----
+1. https://anthology.rhizome.org/
+2. https://threejs.org/
+3. https://aframe.io/examples/showcase/helloworld/
+4.http://theharrisonstudio.net/a-vision-for-the-green-heart-of-holland
+5. http://www.phillipstearns.com/
+6. https://en.wikipedia.org/wiki/Jim_Drain
+7. https://www.assetstore.unity3d.com/en/#!/content/92515
+8. http://www.ekac.org/gfpbunny.html
+9. https://desktop.github.com/
+10. https://www.engadget.com/2013/01/01/twitter-roach-takes-guidance-from-tweets/
+11. http://www.anthonyantonellis.com/
+12. https://occupyhere.org/
 
