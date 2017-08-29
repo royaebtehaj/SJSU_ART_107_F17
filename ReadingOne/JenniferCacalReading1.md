@@ -1,0 +1,13 @@
+Imagine having a conversation with someone, but that person you're talking to is very admiring, almost worshipping,of Samsung. Not only are they very enthusiastic about Samsung, to the point they claim the brand itself saved their life, they are very pushy about it. It's a very one-sided conversation and you have no say in it whatsoever. That is the experience you get when watching the cinematic typography art known as Samsung. Samsung (1999) is a net art created by Young-hae Chang and Marc Voge, under the name Young-Hae Chang Heavy Industries. The name is modeled after the names usually given to large corporations, with further the importance and influence the idea of corporations has on this piece.
+
+The flash itself consists of texts sets in all-caps Monaco typeface, appearing onscreen in sync with jazz and bossa nova soundtracks. The narrator of the piece is unknown, however they have an extremely absurd positive opinion with the idea of Samsung.
+
+After experiencing the piece, I felt that it was an overall commentary on society’s relationship with large corporations. 
+
+When I think about corporations, I think about money and power. Corporations, despite primarily being in the field of business, has significant influence over other areas of society such as government and media. They are the biggest money makers and collectors contributing to a nation’s economy, thus the government bend over backwards to please these business. Our media is overly saturated with ads and other content related to corporations, telling us what is good and what to buy, like any propaganda. A very negative, view on corporations similar to one’s view on dictatorships.
+
+However, that is not the views the narrator has. As mentioned before, their views on Samsung are very positive. However, I feel that their reasons for loving Samsung are the same reasons why I don’t care for it.
+
+Looking at it from a cultural context, South Korea is actually more accepting of corporate influence on their lives. Their devices and even their houses are provided by Samsung, thus they rely on the corporation for their society to function. This turns the narrator’s opinions from ridiculous to just mere exaggeration. 
+
+It also comments on the differing viewpoints of European and Korean society. Even when the great influence of corporations is present in both regions, why is one more hostile to it than the other? I believe the piece is there to remind us  of the control from a greater entity over our lives while also giving us awareness of our unconscious acceptance of it. We may not like it, but we depend on it.
